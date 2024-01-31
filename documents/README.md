@@ -5,3 +5,4 @@
 - [패키지](./package.md)
 - [컴파일](./compile.md)
 - [변수](./variable.md)
+- [이름 짓는 법](./naming.md)
